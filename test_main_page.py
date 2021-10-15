@@ -1,5 +1,7 @@
 import time
 
+
+
 link = "http://selenium1py.pythonanywhere.com/"
 
 
